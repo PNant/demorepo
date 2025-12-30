@@ -1,1 +1,1 @@
-just add some text in here
+just add some text in here. I am adding additional info to file3.txt to modify it
