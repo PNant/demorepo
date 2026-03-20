@@ -1,0 +1,2 @@
+this is file2.
+I am modifiying file2 while it is in Staging.
